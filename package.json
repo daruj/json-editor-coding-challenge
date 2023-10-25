@@ -1,0 +1,29 @@
+{
+    "name": "json-editor-coding-challenge",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "install": "npm run install-backend && npm run install-frontend",
+        "install-frontend": "cd json-editor-frontend && npm install",
+        "install-backend": "cd json-editor-backend && npm install",
+        "install-and-start": "npm run install && npm start",
+        "start": "npm run start-backend & npm run start-frontend",
+        "start-frontend": "cd json-editor-frontend && npm start",
+        "start-backend": "cd json-editor-backend && npm start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/daruj/json-editor-coding-challenge.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/daruj/json-editor-coding-challenge/issues"
+    },
+    "homepage": "https://github.com/daruj/json-editor-coding-challenge#readme",
+    "engines": {
+        "node": ">=18.13.0"
+    }
+}
