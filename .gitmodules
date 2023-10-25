@@ -1,0 +1,3 @@
+[submodule "json-editor-frontend"]
+	path = json-editor-frontend
+	url = git@github.com:daruj/json-editor-frontend.git
