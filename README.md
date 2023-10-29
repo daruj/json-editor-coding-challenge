@@ -10,6 +10,15 @@ To clone the repository and the submodules, run the following command:
 git clone --recursive git@github.com:daruj/json-editor-coding-challenge.git
 ```
 
+## Install and run backend and frontend
+
+I have created a script that will allow you to just install and run both projects. For that you should run the following command:
+
+```bash
+cd cd json-editor-coding-challenge
+npm run install-and-start
+```
+
 ## Package Information
 
 -   **Name**: json-editor-coding-challenge
