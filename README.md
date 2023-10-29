@@ -15,7 +15,7 @@ git clone --recursive git@github.com:daruj/json-editor-coding-challenge.git
 I have created a script that will allow you to just install and run both projects. For that you should run the following command:
 
 ```bash
-cd cd json-editor-coding-challenge
+cd json-editor-coding-challenge
 npm run install-and-start
 ```
 
