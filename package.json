@@ -1,7 +1,7 @@
 {
     "name": "json-editor-coding-challenge",
+    "description": "This is the main repo for a coding challenge that is supposed to store and allow to update json data",
     "version": "1.0.0",
-    "description": "",
     "main": "index.js",
     "type": "module",
     "scripts": {
