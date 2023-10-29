@@ -2,6 +2,14 @@
 
 This repository contains the main codebase for a coding challenge that is designed to store and facilitate updates to JSON data. It is split into two parts: the frontend and backend components, each with its own set of installation and startup scripts.
 
+## Clone the repository and the submodules
+
+To clone the repository and the submodules, run the following command:
+
+```bash
+git clone --recursive git@github.com:daruj/json-editor-coding-challenge.git
+```
+
 ## Package Information
 
 -   **Name**: json-editor-coding-challenge
